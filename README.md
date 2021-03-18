@@ -1,2 +1,2 @@
-# Portfolio-website-prototype
-This is a prototype or wireframe for a photographer's porfolio website. Made using Adobe XD.
+# Photographer's portfolio website
+Frontend for a photographer's porfolio website. Wireframed using Adobe XD and designed using HTML, CSS, Bootstrap and 
